@@ -1,6 +1,4 @@
 
 import os
 
-dir_list = os.listdir("/")
-
-print(dir_list)
+dir_list = os.remove("/")
